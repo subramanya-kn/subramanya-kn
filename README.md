@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subramanya-kn&label=Profile%20views&color=0e75b6&style=flat" alt="subramanya-kn" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Technolgies such as JS and React**
+- 🌱 I’m currently working on **Front end technologies**
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **REST services**
 
 - 📫 How to reach me **4nn19cs030@nieit.ac.in**
 
