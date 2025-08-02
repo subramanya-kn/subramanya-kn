@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently working on **Full Stack Developments**
 
-- 💬 Ask me about **REST services**
+- 💬 Ask me about **Backend Development & AI Agents**
 
-- 📫 How to reach me **4nn19cs030@nieit.ac.in**
+- 📫 How to reach me **subramanyakn2002@gmail.com**
 
 - ⚡ Fun fact **I'm into F1 racing!**
 
